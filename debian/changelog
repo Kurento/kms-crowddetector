@@ -1,8 +1,21 @@
-kms-crowddetector (6.16.1-0kurento1) UNRELEASED; urgency=medium
+kms-crowddetector (7.0.0-0kurento1.18.04~20210615191247.gbp346491) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @34649165c4af77c877f7242c2dd3ceb61f3bd4a2 **
+
+
+kms-crowddetector (6.16.1-0kurento1.18.04~20210615132937.gbp346491) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @34649165c4af77c877f7242c2dd3ceb61f3bd4a2 **
+
+  [ Juan Navarro ]
   * UNRELEASED
 
- -- Juan Navarro <juan.navarro@gmx.es>  Wed, 03 Mar 2021 12:26:49 +0100
+  [ root ]
+  * UNRELEASED
+  * UNRELEASED
+  * UNRELEASED
+
+ -- Saul Labajo <slabajo@naevatec.com>  Tue, 15 Jun 2021 19:13:03 +0000
 
 kms-crowddetector (6.16.0-0kurento1) testing; urgency=medium
 
